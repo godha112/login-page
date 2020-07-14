@@ -1,0 +1,46 @@
+body{
+	background-color: brown;
+}
+
+h1{
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.main-menu{
+	background-color: pink;
+	border: 1px solid black;
+	width: 340px;
+	height: 183px;
+	margin-left: 500px;
+	margin-top: 150px;
+	margin-right: 2px;
+}
+
+
+.label{
+	margin-top: 2px;
+	margin-left: 2px;
+	display: inline-block;
+	width: 100px;
+	height: 20px;
+	border: 1px solid black;
+	text-transform: capitalize;
+	padding: 1px;
+}
+
+.details{
+	margin: 2px;
+	padding: 2px;
+	display: inline-block;
+	width: 220px;
+	border: 1px solid black;
+}
+
+#submit-button{
+	border: 1px solid black;
+	margin: 3px;
+	padding-left: 110px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
